@@ -31,3 +31,5 @@ When you send a message on WhatsApp:
 3. The receiver’s phone follows rules to display it
 
 These rules together are called protocols.
+
+![alt text](image.png)

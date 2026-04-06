@@ -21,3 +21,5 @@ the world wide web is a system of interlinked web pages and resources that you c
 1. helps in communication and information sharing.
 2. used for education,business,entertainment.
 3. makes the internet user-friendly.
+
+![alt text](image-7.png)

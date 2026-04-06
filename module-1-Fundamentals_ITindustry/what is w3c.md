@@ -14,3 +14,6 @@
 # examples
 
 1. a website might work in one browser but not in another.
+
+
+![alt text](image-3.png)

@@ -22,3 +22,6 @@ a web server is a system that stores websites data and delivers it to users when
 1. apache HTTP server
 2. nginx
 3. microsoft IIS
+
+
+![alt text](image-6.png)

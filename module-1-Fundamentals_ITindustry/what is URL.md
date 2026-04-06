@@ -19,3 +19,6 @@
 7. protocl=mode of transport (car,train)
 8. domain=city name
 9. path=street and house number
+
+
+![alt text](image-2.png)
